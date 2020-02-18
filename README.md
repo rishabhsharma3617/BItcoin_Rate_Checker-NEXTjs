@@ -1,1 +1,1 @@
-This Project uses the NEXTJS to rendering the applicaion server-side and it fetches the current rate of Bitcoin in the desired currencies 
+This Project uses the NEXTJS to rendering the applicaion server-side and it fetches the current rate of Bitcoin in the desired currencies .Nextjs allows us to run our code server side so that we dont have to build a separate server for the front end . Even without using create-react-app and react dependencies the Code runs on server and later we can build the whole package with all the dependencies in the final sprint of production .
